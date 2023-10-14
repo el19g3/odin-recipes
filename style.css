@@ -1,0 +1,14 @@
+body {
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      color: blue;
+      background-color: gray;
+}
+
+h1 {
+      text-decoration: solid;
+}
+
+li {
+      text-align: center;
+      color: black;
+}
